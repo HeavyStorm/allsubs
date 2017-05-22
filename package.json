@@ -1,0 +1,29 @@
+{
+  "name": "allsubs",
+  "version": "1.0.0",
+  "description": "CLI tool to download subtitles in batch.",
+  "main": "app.js",
+  "dependencies": {
+    "download-file": "^0.1.5",
+    "opensubtitles-api": "^4.0.0-rc2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeavyStorm/allsubs.git"
+  },
+  "keywords": [
+    "open-subtitles",
+    "subtitles",
+    "cli"
+  ],
+  "author": "@HeavyStorm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HeavyStorm/allsubs/issues"
+  },
+  "homepage": "https://github.com/HeavyStorm/allsubs#readme"
+}
